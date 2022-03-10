@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E266" />
+          <option value="E127" />
+          <option value="E128" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Thesis.pyomotest.*" />
+          <option value="Thesis.AFSC_Match_VFT_Model.Any" />
+          <option value="Thesis.AFSC_Match_VFT_Model.Binary" />
+          <option value="Thesis.Model_Functions.Any" />
+          <option value="Thesis.Model_Functions.Binary" />
+          <option value="Thesis.Model_Functions.PositiveIntegers" />
+          <option value="Thesis.Model_Functions.NonPositiveReals" />
+          <option value="Thesis.Model_Functions.NonNegativeReals" />
+          <option value="Thesis.Small_model_solve.Reals" />
+          <option value="Thesis.Small_model_solve.Binary" />
+          <option value="Thesis.Small_model_solve.PositiveIntegers" />
+          <option value="Thesis.Small_model_solve.NonNegativeReals" />
+          <option value="Thesis.Small_model_solve.PositiveReals" />
+          <option value="Thesis.Model_Functions.PositiveReals" />
+          <option value="Thesis.VFT_Model_Solve.PositiveReals" />
+          <option value="list.argsort" />
+          <option value="Pyomo_Models.NonNegativeReals" />
+          <option value="Pyomo_Models.Binary" />
+          <option value="Pyomo_Models.PositiveReals" />
+          <option value="Research_Functions_Other.PositiveReals" />
+          <option value="Research_Functions_Other.Binary" />
+          <option value="Comprehensive_Functions.PositiveReals" />
+          <option value="Comprehensive_Functions.Binary" />
+          <option value="afccp.core.comprehensive_functions.PositiveReals" />
+          <option value="afccp.core.comprehensive_functions.Binary" />
+          <option value="afccp.core.pyomo_models.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
